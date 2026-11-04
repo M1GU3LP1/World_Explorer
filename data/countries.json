@@ -1,0 +1,2752 @@
+{
+    "AFG": {
+        "name": "Afganistán",
+        "officialName": "República Islámica de Afganistán",
+        "capital": "Kabul",
+        "population": 43844111,
+        "region": "Asia",
+        "languages": [
+            "Dari",
+            "Pastún",
+            "Turcomano"
+        ],
+        "currency": "Afgani afgano",
+        "flag": "🇦🇫",
+        "cca2": "af"
+    },
+    "ALB": {
+        "name": "Albania",
+        "officialName": "República de Albania",
+        "capital": "Tirana",
+        "population": 2349580,
+        "region": "Europa",
+        "languages": [
+            "Albanés"
+        ],
+        "currency": "Lek albanés",
+        "flag": "🇦🇱",
+        "cca2": "al"
+    },
+    "DEU": {
+        "name": "Alemania",
+        "officialName": "República Federal de Alemania",
+        "capital": "Berlín",
+        "population": 83491249,
+        "region": "Europa",
+        "languages": [
+            "Alemán"
+        ],
+        "currency": "Euro",
+        "flag": "🇩🇪",
+        "cca2": "de"
+    },
+    "AND": {
+        "name": "Andorra",
+        "officialName": "Principado de Andorra",
+        "capital": "Andorra la Vella",
+        "population": 82904,
+        "region": "Europa",
+        "languages": [
+            "Catalán"
+        ],
+        "currency": "Euro",
+        "flag": "🇦🇩",
+        "cca2": "ad"
+    },
+    "AGO": {
+        "name": "Angola",
+        "officialName": "República de Angola",
+        "capital": "Luanda",
+        "population": 39040039,
+        "region": "África",
+        "languages": [
+            "Portugués"
+        ],
+        "currency": "Kwanza angoleño",
+        "flag": "🇦🇴",
+        "cca2": "ao"
+    },
+    "ATG": {
+        "name": "Antigua y Barbuda",
+        "officialName": "Antigua y Barbuda",
+        "capital": "Saint John's",
+        "population": 94209,
+        "region": "América",
+        "languages": [
+            "Inglés"
+        ],
+        "currency": "Dólar del Caribe Oriental",
+        "flag": "🇦🇬",
+        "cca2": "ag"
+    },
+    "SAU": {
+        "name": "Arabia Saudí",
+        "officialName": "Reino de Arabia Saudita",
+        "capital": "Riad",
+        "population": 36973555,
+        "region": "Asia",
+        "languages": [
+            "Árabe"
+        ],
+        "currency": "Riyal saudí",
+        "flag": "🇸🇦",
+        "cca2": "sa"
+    },
+    "DZA": {
+        "name": "Argelia",
+        "officialName": "República Argelina Democrática y Popular",
+        "capital": "Argel",
+        "population": 47435312,
+        "region": "África",
+        "languages": [
+            "Árabe"
+        ],
+        "currency": "Dinar argelino",
+        "flag": "🇩🇿",
+        "cca2": "dz"
+    },
+    "ARG": {
+        "name": "Argentina",
+        "officialName": "República Argentina",
+        "capital": "Buenos Aires",
+        "population": 45851378,
+        "region": "América",
+        "languages": [
+            "Guaraní",
+            "Español"
+        ],
+        "currency": "Peso argentino",
+        "flag": "🇦🇷",
+        "cca2": "ar"
+    },
+    "ARM": {
+        "name": "Armenia",
+        "officialName": "República de Armenia",
+        "capital": "Ereván",
+        "population": 3086700,
+        "region": "Asia",
+        "languages": [
+            "Armenio"
+        ],
+        "currency": "Dram armenio",
+        "flag": "🇦🇲",
+        "cca2": "am"
+    },
+    "AUS": {
+        "name": "Australia",
+        "officialName": "Mancomunidad de Australia",
+        "capital": "Canberra",
+        "population": 27614411,
+        "region": "Oceanía",
+        "languages": [
+            "Inglés"
+        ],
+        "currency": "Dólar australiano",
+        "flag": "🇦🇺",
+        "cca2": "au"
+    },
+    "AUT": {
+        "name": "Austria",
+        "officialName": "República de Austria",
+        "capital": "Viena",
+        "population": 9208163,
+        "region": "Europa",
+        "languages": [
+            "Alemán"
+        ],
+        "currency": "Euro",
+        "flag": "🇦🇹",
+        "cca2": "at"
+    },
+    "AZE": {
+        "name": "Azerbaiyán",
+        "officialName": "República de Azerbaiyán",
+        "capital": "Bakú",
+        "population": 10246996,
+        "region": "Asia",
+        "languages": [
+            "Azerbaiyano",
+            "Ruso"
+        ],
+        "currency": "Manat azerbaiyano",
+        "flag": "🇦🇿",
+        "cca2": "az"
+    },
+    "BHS": {
+        "name": "Bahamas",
+        "officialName": "Commonwealth de las Bahamas",
+        "capital": "Nassau",
+        "population": 403033,
+        "region": "América",
+        "languages": [
+            "Inglés"
+        ],
+        "currency": "Dólar bahameño",
+        "flag": "🇧🇸",
+        "cca2": "bs"
+    },
+    "BHR": {
+        "name": "Bahrein",
+        "officialName": "Reino de Bahrein",
+        "capital": "Manama",
+        "population": 1600366,
+        "region": "Asia",
+        "languages": [
+            "Árabe"
+        ],
+        "currency": "Dinar bareiní",
+        "flag": "🇧🇭",
+        "cca2": "bh"
+    },
+    "BGD": {
+        "name": "Bangladesh",
+        "officialName": "República Popular de Bangladesh",
+        "capital": "Dhaka",
+        "population": 175686899,
+        "region": "Asia",
+        "languages": [
+            "Bengalí"
+        ],
+        "currency": "Taka bangladesí",
+        "flag": "🇧🇩",
+        "cca2": "bd"
+    },
+    "BRB": {
+        "name": "Barbados",
+        "officialName": "Barbados",
+        "capital": "Bridgetown",
+        "population": 282623,
+        "region": "América",
+        "languages": [
+            "Inglés"
+        ],
+        "currency": "Dólar de Barbados",
+        "flag": "🇧🇧",
+        "cca2": "bb"
+    },
+    "BLZ": {
+        "name": "Belice",
+        "officialName": "Belice",
+        "capital": "Belmopan",
+        "population": 422924,
+        "region": "América",
+        "languages": [
+            "Criollo beliceño",
+            "Inglés",
+            "Español"
+        ],
+        "currency": "Dólar beliceño",
+        "flag": "🇧🇿",
+        "cca2": "bz"
+    },
+    "BEN": {
+        "name": "Benín",
+        "officialName": "República de Benin",
+        "capital": "Porto-Novo",
+        "population": 14814460,
+        "region": "África",
+        "languages": [
+            "Francés"
+        ],
+        "currency": "Franco CFA de África Occidental",
+        "flag": "🇧🇯",
+        "cca2": "bj"
+    },
+    "BLR": {
+        "name": "Bielorrusia",
+        "officialName": "República de Belarús",
+        "capital": "Minsk",
+        "population": 9085991,
+        "region": "Europa",
+        "languages": [
+            "Bielorruso",
+            "Ruso"
+        ],
+        "currency": "Rublo bielorruso",
+        "flag": "🇧🇾",
+        "cca2": "by"
+    },
+    "BOL": {
+        "name": "Bolivia",
+        "officialName": "Estado Plurinacional de Bolivia",
+        "capital": "Sucre",
+        "population": 12581843,
+        "region": "América",
+        "languages": [
+            "Aimara",
+            "Guaraní",
+            "Quechua",
+            "Español"
+        ],
+        "currency": "Boliviano",
+        "flag": "🇧🇴",
+        "cca2": "bo"
+    },
+    "BIH": {
+        "name": "Bosnia y Herzegovina",
+        "officialName": "Bosnia y Herzegovina",
+        "capital": "Sarajevo",
+        "population": 3140095,
+        "region": "Europa",
+        "languages": [
+            "Bosnio",
+            "Croata",
+            "Serbio"
+        ],
+        "currency": "Marco convertible bosnioherzegovino",
+        "flag": "🇧🇦",
+        "cca2": "ba"
+    },
+    "BWA": {
+        "name": "Botswana",
+        "officialName": "República de Botswana",
+        "capital": "Gaborone",
+        "population": 2562122,
+        "region": "África",
+        "languages": [
+            "Inglés",
+            "Tswana"
+        ],
+        "currency": "Pula botsuanesa",
+        "flag": "🇧🇼",
+        "cca2": "bw"
+    },
+    "BRA": {
+        "name": "Brasil",
+        "officialName": "República Federativa del Brasil",
+        "capital": "Brasília",
+        "population": 212812405,
+        "region": "América",
+        "languages": [
+            "Portugués"
+        ],
+        "currency": "Real brasileño",
+        "flag": "🇧🇷",
+        "cca2": "br"
+    },
+    "BRN": {
+        "name": "Brunei",
+        "officialName": "Nación de Brunei, Morada de la Paz",
+        "capital": "Bandar Seri Begawan",
+        "population": 466330,
+        "region": "Asia",
+        "languages": [
+            "Malayo"
+        ],
+        "currency": "Dólar de Brunéi",
+        "flag": "🇧🇳",
+        "cca2": "bn"
+    },
+    "BGR": {
+        "name": "Bulgaria",
+        "officialName": "República de Bulgaria",
+        "capital": "Sofia",
+        "population": 6433302,
+        "region": "Europa",
+        "languages": [
+            "Búlgaro"
+        ],
+        "currency": "Euro",
+        "flag": "🇧🇬",
+        "cca2": "bg"
+    },
+    "BFA": {
+        "name": "Burkina Faso",
+        "officialName": "Burkina Faso",
+        "capital": "Ouagadougou",
+        "population": 24074580,
+        "region": "África",
+        "languages": [
+            "Francés"
+        ],
+        "currency": "Franco CFA de África Occidental",
+        "flag": "🇧🇫",
+        "cca2": "bf"
+    },
+    "BDI": {
+        "name": "Burundi",
+        "officialName": "República de Burundi",
+        "capital": "Gitega",
+        "population": 14390003,
+        "region": "África",
+        "languages": [
+            "Francés",
+            "Kirundi"
+        ],
+        "currency": "Franco burundés",
+        "flag": "🇧🇮",
+        "cca2": "bi"
+    },
+    "BTN": {
+        "name": "Bután",
+        "officialName": "Reino de Bután",
+        "capital": "Thimphu",
+        "population": 796682,
+        "region": "Asia",
+        "languages": [
+            "Dzongkha"
+        ],
+        "currency": "Ngultrum butanés",
+        "flag": "🇧🇹",
+        "cca2": "bt"
+    },
+    "BEL": {
+        "name": "Bélgica",
+        "officialName": "Reino de Bélgica",
+        "capital": "Bruselas",
+        "population": 11941781,
+        "region": "Europa",
+        "languages": [
+            "Alemán",
+            "Francés",
+            "Neerlandés"
+        ],
+        "currency": "Euro",
+        "flag": "🇧🇪",
+        "cca2": "be"
+    },
+    "CPV": {
+        "name": "Cabo Verde",
+        "officialName": "República de Cabo Verde",
+        "capital": "Praia",
+        "population": 527326,
+        "region": "África",
+        "languages": [
+            "Portugués"
+        ],
+        "currency": "Escudo caboverdiano",
+        "flag": "🇨🇻",
+        "cca2": "cv"
+    },
+    "KHM": {
+        "name": "Camboya",
+        "officialName": "Reino de Camboya",
+        "capital": "Phnom Penh",
+        "population": 17847982,
+        "region": "Asia",
+        "languages": [
+            "Jemer"
+        ],
+        "currency": "Riel camboyano",
+        "flag": "🇰🇭",
+        "cca2": "kh"
+    },
+    "CMR": {
+        "name": "Camerún",
+        "officialName": "República de Camerún",
+        "capital": "Yaoundé",
+        "population": 29879337,
+        "region": "África",
+        "languages": [
+            "Inglés",
+            "Francés"
+        ],
+        "currency": "Franco CFA de África Central",
+        "flag": "🇨🇲",
+        "cca2": "cm"
+    },
+    "CAN": {
+        "name": "Canadá",
+        "officialName": "Canadá",
+        "capital": "Ottawa",
+        "population": 41651653,
+        "region": "América",
+        "languages": [
+            "Inglés",
+            "Francés"
+        ],
+        "currency": "Dólar canadiense",
+        "flag": "🇨🇦",
+        "cca2": "ca"
+    },
+    "QAT": {
+        "name": "Catar",
+        "officialName": "Estado de Qatar",
+        "capital": "Doha",
+        "population": 2972215,
+        "region": "Asia",
+        "languages": [
+            "Árabe"
+        ],
+        "currency": "Riyal catarí",
+        "flag": "🇶🇦",
+        "cca2": "qa"
+    },
+    "TCD": {
+        "name": "Chad",
+        "officialName": "República de Chad",
+        "capital": "N'Djamena",
+        "population": 21003705,
+        "region": "África",
+        "languages": [
+            "Árabe",
+            "Francés"
+        ],
+        "currency": "Franco CFA de África Central",
+        "flag": "🇹🇩",
+        "cca2": "td"
+    },
+    "CZE": {
+        "name": "Chequia",
+        "officialName": "República Checa",
+        "capital": "Praga",
+        "population": 10886878,
+        "region": "Europa",
+        "languages": [
+            "Checo",
+            "Eslovaco"
+        ],
+        "currency": "Corona checa",
+        "flag": "🇨🇿",
+        "cca2": "cz"
+    },
+    "CHL": {
+        "name": "Chile",
+        "officialName": "República de Chile",
+        "capital": "Santiago",
+        "population": 19859921,
+        "region": "América",
+        "languages": [
+            "Español"
+        ],
+        "currency": "Peso chileno",
+        "flag": "🇨🇱",
+        "cca2": "cl"
+    },
+    "CHN": {
+        "name": "China",
+        "officialName": "República Popular de China",
+        "capital": "Pekín",
+        "population": 1406585000,
+        "region": "Asia",
+        "languages": [
+            "Chino mandarín"
+        ],
+        "currency": "Yuan chino",
+        "flag": "🇨🇳",
+        "cca2": "cn"
+    },
+    "CYP": {
+        "name": "Chipre",
+        "officialName": "República de Chipre",
+        "capital": "Nicosia",
+        "population": 1370754,
+        "region": "Europa",
+        "languages": [
+            "Griego",
+            "Turco"
+        ],
+        "currency": "Euro",
+        "flag": "🇨🇾",
+        "cca2": "cy"
+    },
+    "VAT": {
+        "name": "Ciudad del Vaticano",
+        "officialName": "Ciudad del Vaticano",
+        "capital": "Ciudad del Vaticano",
+        "population": 764,
+        "region": "Europa",
+        "languages": [
+            "Italiano",
+            "Latín"
+        ],
+        "currency": "Euro",
+        "flag": "🇻🇦",
+        "cca2": "va"
+    },
+    "COL": {
+        "name": "Colombia",
+        "officialName": "República de Colombia",
+        "capital": "Bogotá",
+        "population": 53425635,
+        "region": "América",
+        "languages": [
+            "Español"
+        ],
+        "currency": "Peso colombiano",
+        "flag": "🇨🇴",
+        "cca2": "co"
+    },
+    "COM": {
+        "name": "Comoras",
+        "officialName": "Unión de las Comoras",
+        "capital": "Moroni",
+        "population": 882847,
+        "region": "África",
+        "languages": [
+            "Árabe",
+            "Francés",
+            "Comorano"
+        ],
+        "currency": "Franco comorense",
+        "flag": "🇰🇲",
+        "cca2": "km"
+    },
+    "COG": {
+        "name": "Congo",
+        "officialName": "República del Congo",
+        "capital": "Brazzaville",
+        "population": 6484437,
+        "region": "África",
+        "languages": [
+            "Francés",
+            "Kikongo",
+            "Lingala"
+        ],
+        "currency": "Franco CFA de África Central",
+        "flag": "🇨🇬",
+        "cca2": "cg"
+    },
+    "PRK": {
+        "name": "Corea del Norte",
+        "officialName": "República Popular Democrática de Corea",
+        "capital": "Pyongyang",
+        "population": 26571036,
+        "region": "Asia",
+        "languages": [
+            "Coreano"
+        ],
+        "currency": "Won norcoreano",
+        "flag": "🇰🇵",
+        "cca2": "kp"
+    },
+    "KOR": {
+        "name": "Corea del Sur",
+        "officialName": "República de Corea",
+        "capital": "Seúl",
+        "population": 51684564,
+        "region": "Asia",
+        "languages": [
+            "Coreano"
+        ],
+        "currency": "Won surcoreano",
+        "flag": "🇰🇷",
+        "cca2": "kr"
+    },
+    "CRI": {
+        "name": "Costa Rica",
+        "officialName": "República de Costa Rica",
+        "capital": "San José",
+        "population": 5152950,
+        "region": "América",
+        "languages": [
+            "Español"
+        ],
+        "currency": "Colón costarricense",
+        "flag": "🇨🇷",
+        "cca2": "cr"
+    },
+    "CIV": {
+        "name": "Costa de Marfil",
+        "officialName": "República de Côte d'Ivoire",
+        "capital": "Yamoussoukro",
+        "population": 32711547,
+        "region": "África",
+        "languages": [
+            "Francés"
+        ],
+        "currency": "Franco CFA de África Occidental",
+        "flag": "🇨🇮",
+        "cca2": "ci"
+    },
+    "HRV": {
+        "name": "Croacia",
+        "officialName": "República de Croacia",
+        "capital": "Zagreb",
+        "population": 3876200,
+        "region": "Europa",
+        "languages": [
+            "Croata"
+        ],
+        "currency": "Euro",
+        "flag": "🇭🇷",
+        "cca2": "hr"
+    },
+    "CUB": {
+        "name": "Cuba",
+        "officialName": "República de Cuba",
+        "capital": "La Habana",
+        "population": 10937203,
+        "region": "América",
+        "languages": [
+            "Español"
+        ],
+        "currency": "Peso cubano convertible",
+        "flag": "🇨🇺",
+        "cca2": "cu"
+    },
+    "DNK": {
+        "name": "Dinamarca",
+        "officialName": "Reino de Dinamarca",
+        "capital": "Copenhague",
+        "population": 6009169,
+        "region": "Europa",
+        "languages": [
+            "Danés"
+        ],
+        "currency": "Corona danesa",
+        "flag": "🇩🇰",
+        "cca2": "dk"
+    },
+    "DJI": {
+        "name": "Djibouti",
+        "officialName": "República de Djibouti",
+        "capital": "Djibouti",
+        "population": 1184076,
+        "region": "África",
+        "languages": [
+            "Árabe",
+            "Francés"
+        ],
+        "currency": "Franco yibutiano",
+        "flag": "🇩🇯",
+        "cca2": "dj"
+    },
+    "DMA": {
+        "name": "Dominica",
+        "officialName": "Mancomunidad de Dominica",
+        "capital": "Roseau",
+        "population": 65871,
+        "region": "América",
+        "languages": [
+            "Inglés"
+        ],
+        "currency": "Dólar del Caribe Oriental",
+        "flag": "🇩🇲",
+        "cca2": "dm"
+    },
+    "ECU": {
+        "name": "Ecuador",
+        "officialName": "República del Ecuador",
+        "capital": "Quito",
+        "population": 18289896,
+        "region": "América",
+        "languages": [
+            "Español"
+        ],
+        "currency": "Dólar estadounidense",
+        "flag": "🇪🇨",
+        "cca2": "ec"
+    },
+    "EGY": {
+        "name": "Egipto",
+        "officialName": "República Árabe de Egipto",
+        "capital": "El Cairo",
+        "population": 118365995,
+        "region": "África",
+        "languages": [
+            "Árabe"
+        ],
+        "currency": "Libra egipcia",
+        "flag": "🇪🇬",
+        "cca2": "eg"
+    },
+    "SLV": {
+        "name": "El Salvador",
+        "officialName": "República de El Salvador",
+        "capital": "San Salvador",
+        "population": 6365503,
+        "region": "América",
+        "languages": [
+            "Español"
+        ],
+        "currency": "Dólar estadounidense",
+        "flag": "🇸🇻",
+        "cca2": "sv"
+    },
+    "ARE": {
+        "name": "Emiratos Árabes Unidos",
+        "officialName": "Emiratos Árabes Unidos",
+        "capital": "Abu Dhabi",
+        "population": 11513149,
+        "region": "Asia",
+        "languages": [
+            "Árabe"
+        ],
+        "currency": "Dirham de los Emiratos Árabes Unidos",
+        "flag": "🇦🇪",
+        "cca2": "ae"
+    },
+    "ERI": {
+        "name": "Eritrea",
+        "officialName": "Estado de Eritrea",
+        "capital": "Asmara",
+        "population": 3607003,
+        "region": "África",
+        "languages": [
+            "Árabe",
+            "Inglés",
+            "Tigriña"
+        ],
+        "currency": "Nakfa eritreo",
+        "flag": "🇪🇷",
+        "cca2": "er"
+    },
+    "SVK": {
+        "name": "Eslovaquia",
+        "officialName": "República Eslovaca",
+        "capital": "Bratislava",
+        "population": 5413813,
+        "region": "Europa",
+        "languages": [
+            "Eslovaco"
+        ],
+        "currency": "Euro",
+        "flag": "🇸🇰",
+        "cca2": "sk"
+    },
+    "SVN": {
+        "name": "Eslovenia",
+        "officialName": "República de Eslovenia",
+        "capital": "Ljubljana",
+        "population": 2130986,
+        "region": "Europa",
+        "languages": [
+            "Esloveno"
+        ],
+        "currency": "Euro",
+        "flag": "🇸🇮",
+        "cca2": "si"
+    },
+    "ESP": {
+        "name": "España",
+        "officialName": "Reino de España",
+        "capital": "Madrid",
+        "population": 49355143,
+        "region": "Europa",
+        "languages": [
+            "Español"
+        ],
+        "currency": "Euro",
+        "flag": "🇪🇸",
+        "cca2": "es"
+    },
+    "USA": {
+        "name": "Estados Unidos",
+        "officialName": "Estados Unidos de América",
+        "capital": "Washington D.C.",
+        "population": 341784857,
+        "region": "América",
+        "languages": [
+            "Inglés"
+        ],
+        "currency": "Dólar estadounidense",
+        "flag": "🇺🇸",
+        "cca2": "us"
+    },
+    "EST": {
+        "name": "Estonia",
+        "officialName": "República de Estonia",
+        "capital": "Tallin",
+        "population": 1366475,
+        "region": "Europa",
+        "languages": [
+            "Estonio"
+        ],
+        "currency": "Euro",
+        "flag": "🇪🇪",
+        "cca2": "ee"
+    },
+    "SWZ": {
+        "name": "Esuatini",
+        "officialName": "Reino de eSwatini",
+        "capital": "Lobamba",
+        "population": 1256174,
+        "region": "África",
+        "languages": [
+            "Inglés",
+            "Suazi"
+        ],
+        "currency": "Lilangeni suazi",
+        "flag": "🇸🇿",
+        "cca2": "sz"
+    },
+    "ETH": {
+        "name": "Etiopía",
+        "officialName": "República Democrática Federal de Etiopía",
+        "capital": "Addis Ababa",
+        "population": 135472051,
+        "region": "África",
+        "languages": [
+            "Amárico"
+        ],
+        "currency": "Birr etíope",
+        "flag": "🇪🇹",
+        "cca2": "et"
+    },
+    "PHL": {
+        "name": "Filipinas",
+        "officialName": "República de las Filipinas",
+        "capital": "Manila",
+        "population": 116786962,
+        "region": "Asia",
+        "languages": [
+            "Inglés",
+            "Filipino"
+        ],
+        "currency": "Peso filipino",
+        "flag": "🇵🇭",
+        "cca2": "ph"
+    },
+    "FIN": {
+        "name": "Finlandia",
+        "officialName": "República de Finlandia",
+        "capital": "Helsinki",
+        "population": 5646436,
+        "region": "Europa",
+        "languages": [
+            "Finlandés",
+            "Sueco"
+        ],
+        "currency": "Euro",
+        "flag": "🇫🇮",
+        "cca2": "fi"
+    },
+    "FJI": {
+        "name": "Fiyi",
+        "officialName": "República de Fiji",
+        "capital": "Suva",
+        "population": 933154,
+        "region": "Oceanía",
+        "languages": [
+            "Inglés",
+            "Fiyiano",
+            "Hindi fiyiano"
+        ],
+        "currency": "Dólar fiyiano",
+        "flag": "🇫🇯",
+        "cca2": "fj"
+    },
+    "FRA": {
+        "name": "Francia",
+        "officialName": "República Francesa",
+        "capital": "París",
+        "population": 68720337,
+        "region": "Europa",
+        "languages": [
+            "Francés"
+        ],
+        "currency": "Euro",
+        "flag": "🇫🇷",
+        "cca2": "fr"
+    },
+    "GAB": {
+        "name": "Gabón",
+        "officialName": "República de Gabón",
+        "capital": "Libreville",
+        "population": 2593130,
+        "region": "África",
+        "languages": [
+            "Francés"
+        ],
+        "currency": "Franco CFA de África Central",
+        "flag": "🇬🇦",
+        "cca2": "ga"
+    },
+    "GMB": {
+        "name": "Gambia",
+        "officialName": "República de Gambia",
+        "capital": "Banjul",
+        "population": 2822093,
+        "region": "África",
+        "languages": [
+            "Inglés"
+        ],
+        "currency": "Dalasi gambiano",
+        "flag": "🇬🇲",
+        "cca2": "gm"
+    },
+    "GEO": {
+        "name": "Georgia",
+        "officialName": "Georgia",
+        "capital": "Tbilisi",
+        "population": 3935766,
+        "region": "Asia",
+        "languages": [
+            "Georgiano"
+        ],
+        "currency": "Lari georgiano",
+        "flag": "🇬🇪",
+        "cca2": "ge"
+    },
+    "GHA": {
+        "name": "Ghana",
+        "officialName": "República de Ghana",
+        "capital": "Accra",
+        "population": 35064272,
+        "region": "África",
+        "languages": [
+            "Inglés"
+        ],
+        "currency": "Cedi ghanés",
+        "flag": "🇬🇭",
+        "cca2": "gh"
+    },
+    "GRD": {
+        "name": "Granada",
+        "officialName": "Granada",
+        "capital": "St. George's",
+        "population": 117303,
+        "region": "América",
+        "languages": [
+            "Inglés"
+        ],
+        "currency": "Dólar del Caribe Oriental",
+        "flag": "🇬🇩",
+        "cca2": "gd"
+    },
+    "GRC": {
+        "name": "Grecia",
+        "officialName": "República Helénica",
+        "capital": "Atenas",
+        "population": 10413962,
+        "region": "Europa",
+        "languages": [
+            "Griego"
+        ],
+        "currency": "Euro",
+        "flag": "🇬🇷",
+        "cca2": "gr"
+    },
+    "GRL": {
+        "name": "Groenlandia",
+        "officialName": "Groenlandia",
+        "capital": "Nuuk",
+        "population": 56831,
+        "region": "América",
+        "languages": [
+            "Groenlandés"
+        ],
+        "currency": "Corona danesa",
+        "flag": "🇬🇱",
+        "cca2": "gl"
+    },
+    "GTM": {
+        "name": "Guatemala",
+        "officialName": "República de Guatemala",
+        "capital": "Ciudad de Guatemala",
+        "population": 18687881,
+        "region": "América",
+        "languages": [
+            "Español"
+        ],
+        "currency": "Quetzal guatemalteco",
+        "flag": "🇬🇹",
+        "cca2": "gt"
+    },
+    "GIN": {
+        "name": "Guinea",
+        "officialName": "República de Guinea",
+        "capital": "Conakry",
+        "population": 15099727,
+        "region": "África",
+        "languages": [
+            "Francés"
+        ],
+        "currency": "Franco guineano",
+        "flag": "🇬🇳",
+        "cca2": "gn"
+    },
+    "GNQ": {
+        "name": "Guinea Ecuatorial",
+        "officialName": "República de Guinea Ecuatorial",
+        "capital": "Malabo",
+        "population": 1938431,
+        "region": "África",
+        "languages": [
+            "Francés",
+            "Portugués",
+            "Español"
+        ],
+        "currency": "Franco CFA de África Central",
+        "flag": "🇬🇶",
+        "cca2": "gq"
+    },
+    "GNB": {
+        "name": "Guinea-Bisáu",
+        "officialName": "República de Guinea-Bissau",
+        "capital": "Bissau",
+        "population": 2249515,
+        "region": "África",
+        "languages": [
+            "Portugués",
+            "Criollo guineano"
+        ],
+        "currency": "Franco CFA de África Occidental",
+        "flag": "🇬🇼",
+        "cca2": "gw"
+    },
+    "GUY": {
+        "name": "Guyana",
+        "officialName": "República Cooperativa de Guyana",
+        "capital": "Georgetown",
+        "population": 835986,
+        "region": "América",
+        "languages": [
+            "Inglés"
+        ],
+        "currency": "Dólar guyanés",
+        "flag": "🇬🇾",
+        "cca2": "gy"
+    },
+    "HTI": {
+        "name": "Haití",
+        "officialName": "República de Haití",
+        "capital": "Port-au-Prince",
+        "population": 11906095,
+        "region": "América",
+        "languages": [
+            "Francés",
+            "Criollo haitiano"
+        ],
+        "currency": "Gourde haitiano",
+        "flag": "🇭🇹",
+        "cca2": "ht"
+    },
+    "HND": {
+        "name": "Honduras",
+        "officialName": "República de Honduras",
+        "capital": "Tegucigalpa",
+        "population": 11005850,
+        "region": "América",
+        "languages": [
+            "Español"
+        ],
+        "currency": "Lempira hondureña",
+        "flag": "🇭🇳",
+        "cca2": "hn"
+    },
+    "HUN": {
+        "name": "Hungría",
+        "officialName": "Hungría",
+        "capital": "Budapest",
+        "population": 9514251,
+        "region": "Europa",
+        "languages": [
+            "Húngaro"
+        ],
+        "currency": "Forinto húngaro",
+        "flag": "🇭🇺",
+        "cca2": "hu"
+    },
+    "IND": {
+        "name": "India",
+        "officialName": "República de la India",
+        "capital": "Nueva Delhi",
+        "population": 1463865525,
+        "region": "Asia",
+        "languages": [
+            "Inglés",
+            "Hindi",
+            "Tamil"
+        ],
+        "currency": "Rupia india",
+        "flag": "🇮🇳",
+        "cca2": "in"
+    },
+    "IDN": {
+        "name": "Indonesia",
+        "officialName": "República de Indonesia",
+        "capital": "Jakarta",
+        "population": 285721236,
+        "region": "Asia",
+        "languages": [
+            "Indonesio"
+        ],
+        "currency": "Rupia indonesia",
+        "flag": "🇮🇩",
+        "cca2": "id"
+    },
+    "IRQ": {
+        "name": "Irak",
+        "officialName": "República de Irak",
+        "capital": "Bagdad",
+        "population": 47020774,
+        "region": "Asia",
+        "languages": [
+            "Árabe",
+            "Arameo",
+            "Kurdo sorani"
+        ],
+        "currency": "Dinar iraquí",
+        "flag": "🇮🇶",
+        "cca2": "iq"
+    },
+    "IRL": {
+        "name": "Irlanda",
+        "officialName": "República de Irlanda",
+        "capital": "Dublín",
+        "population": 5484367,
+        "region": "Europa",
+        "languages": [
+            "Inglés",
+            "Irlandés"
+        ],
+        "currency": "Euro",
+        "flag": "🇮🇪",
+        "cca2": "ie"
+    },
+    "IRN": {
+        "name": "Irán",
+        "officialName": "República Islámica de Irán",
+        "capital": "Teherán",
+        "population": 92417681,
+        "region": "Asia",
+        "languages": [
+            "Persa"
+        ],
+        "currency": "Rial iraní",
+        "flag": "🇮🇷",
+        "cca2": "ir"
+    },
+    "ISL": {
+        "name": "Islandia",
+        "officialName": "Islandia",
+        "capital": "Reikiavik",
+        "population": 392404,
+        "region": "Europa",
+        "languages": [
+            "Islandés"
+        ],
+        "currency": "Corona islandesa",
+        "flag": "🇮🇸",
+        "cca2": "is"
+    },
+    "FLK": {
+        "name": "Islas Malvinas",
+        "officialName": "Islas Malvinas",
+        "capital": "Stanley",
+        "population": 3780,
+        "region": "América",
+        "languages": [
+            "Inglés"
+        ],
+        "currency": "Libra malvinense",
+        "flag": "🇫🇰",
+        "cca2": "fk"
+    },
+    "MHL": {
+        "name": "Islas Marshall",
+        "officialName": "República de las Islas Marshall",
+        "capital": "Majuro",
+        "population": 36282,
+        "region": "Oceanía",
+        "languages": [
+            "Inglés",
+            "Marshalés"
+        ],
+        "currency": "Dólar estadounidense",
+        "flag": "🇲🇭",
+        "cca2": "mh"
+    },
+    "SLB": {
+        "name": "Islas Salomón",
+        "officialName": "Islas Salomón",
+        "capital": "Honiara",
+        "population": 838645,
+        "region": "Oceanía",
+        "languages": [
+            "Inglés"
+        ],
+        "currency": "Dólar salomonense",
+        "flag": "🇸🇧",
+        "cca2": "sb"
+    },
+    "ISR": {
+        "name": "Israel",
+        "officialName": "Estado de Israel",
+        "capital": "Jerusalén",
+        "population": 10122800,
+        "region": "Asia",
+        "languages": [
+            "Árabe",
+            "Hebreo"
+        ],
+        "currency": "Nuevo shéquel israelí",
+        "flag": "🇮🇱",
+        "cca2": "il"
+    },
+    "ITA": {
+        "name": "Italia",
+        "officialName": "República Italiana",
+        "capital": "Roma",
+        "population": 58915656,
+        "region": "Europa",
+        "languages": [
+            "Italiano"
+        ],
+        "currency": "Euro",
+        "flag": "🇮🇹",
+        "cca2": "it"
+    },
+    "JAM": {
+        "name": "Jamaica",
+        "officialName": "Jamaica",
+        "capital": "Kingston",
+        "population": 2837077,
+        "region": "América",
+        "languages": [
+            "Inglés",
+            "Patois jamaicano"
+        ],
+        "currency": "Dólar jamaicano",
+        "flag": "🇯🇲",
+        "cca2": "jm"
+    },
+    "JPN": {
+        "name": "Japón",
+        "officialName": "Japón",
+        "capital": "Tokio",
+        "population": 123366734,
+        "region": "Asia",
+        "languages": [
+            "Japonés"
+        ],
+        "currency": "Yen japonés",
+        "flag": "🇯🇵",
+        "cca2": "jp"
+    },
+    "JOR": {
+        "name": "Jordania",
+        "officialName": "Reino Hachemita de Jordania",
+        "capital": "Amán",
+        "population": 11520684,
+        "region": "Asia",
+        "languages": [
+            "Árabe"
+        ],
+        "currency": "Dinar jordano",
+        "flag": "🇯🇴",
+        "cca2": "jo"
+    },
+    "KAZ": {
+        "name": "Kazajistán",
+        "officialName": "República de Kazajstán",
+        "capital": "Astana",
+        "population": 20843754,
+        "region": "Asia",
+        "languages": [
+            "Kazajo",
+            "Ruso"
+        ],
+        "currency": "Tenge kazajo",
+        "flag": "🇰🇿",
+        "cca2": "kz"
+    },
+    "KEN": {
+        "name": "Kenia",
+        "officialName": "República de Kenya",
+        "capital": "Nairobi",
+        "population": 57532493,
+        "region": "África",
+        "languages": [
+            "Inglés",
+            "Suajili"
+        ],
+        "currency": "Chelín keniano",
+        "flag": "🇰🇪",
+        "cca2": "ke"
+    },
+    "KGZ": {
+        "name": "Kirguizistán",
+        "officialName": "República Kirguisa",
+        "capital": "Bishkek",
+        "population": 7343064,
+        "region": "Asia",
+        "languages": [
+            "Kirguís",
+            "Ruso"
+        ],
+        "currency": "Som kirguís",
+        "flag": "🇰🇬",
+        "cca2": "kg"
+    },
+    "KIR": {
+        "name": "Kiribati",
+        "officialName": "República de Kiribati",
+        "capital": "South Tarawa",
+        "population": 136488,
+        "region": "Oceanía",
+        "languages": [
+            "Inglés",
+            "Gilbertés"
+        ],
+        "currency": "Dólar australiano",
+        "flag": "🇰🇮",
+        "cca2": "ki"
+    },
+    "KWT": {
+        "name": "Kuwait",
+        "officialName": "Estado de Kuwait",
+        "capital": "Ciudad de Kuwait",
+        "population": 4865298,
+        "region": "Asia",
+        "languages": [
+            "Árabe"
+        ],
+        "currency": "Dinar kuwaití",
+        "flag": "🇰🇼",
+        "cca2": "kw"
+    },
+    "LAO": {
+        "name": "Laos",
+        "officialName": "República Democrática Popular Lao",
+        "capital": "Vientiane",
+        "population": 7873046,
+        "region": "Asia",
+        "languages": [
+            "Lao"
+        ],
+        "currency": "Kip laosiano",
+        "flag": "🇱🇦",
+        "cca2": "la"
+    },
+    "LSO": {
+        "name": "Lesotho",
+        "officialName": "Reino de Lesotho",
+        "capital": "Maseru",
+        "population": 2363325,
+        "region": "África",
+        "languages": [
+            "Inglés",
+            "Sotho"
+        ],
+        "currency": "Loti lesotense",
+        "flag": "🇱🇸",
+        "cca2": "ls"
+    },
+    "LVA": {
+        "name": "Letonia",
+        "officialName": "República de Letonia",
+        "capital": "Riga",
+        "population": 1847785,
+        "region": "Europa",
+        "languages": [
+            "Letón"
+        ],
+        "currency": "Euro",
+        "flag": "🇱🇻",
+        "cca2": "lv"
+    },
+    "LBR": {
+        "name": "Liberia",
+        "officialName": "República de Liberia",
+        "capital": "Monrovia",
+        "population": 5731206,
+        "region": "África",
+        "languages": [
+            "Inglés"
+        ],
+        "currency": "Dólar liberiano",
+        "flag": "🇱🇷",
+        "cca2": "lr"
+    },
+    "LBY": {
+        "name": "Libia",
+        "officialName": "Estado de Libia",
+        "capital": "Trípoli",
+        "population": 7458555,
+        "region": "África",
+        "languages": [
+            "Árabe"
+        ],
+        "currency": "Dinar libio",
+        "flag": "🇱🇾",
+        "cca2": "ly"
+    },
+    "LIE": {
+        "name": "Liechtenstein",
+        "officialName": "Principado de Liechtenstein",
+        "capital": "Vaduz",
+        "population": 41024,
+        "region": "Europa",
+        "languages": [
+            "Alemán"
+        ],
+        "currency": "Franco suizo",
+        "flag": "🇱🇮",
+        "cca2": "li"
+    },
+    "LTU": {
+        "name": "Lituania",
+        "officialName": "República de Lituania",
+        "capital": "Vilnius",
+        "population": 2888774,
+        "region": "Europa",
+        "languages": [
+            "Lituano"
+        ],
+        "currency": "Euro",
+        "flag": "🇱🇹",
+        "cca2": "lt"
+    },
+    "LUX": {
+        "name": "Luxemburgo",
+        "officialName": "Gran Ducado de Luxemburgo",
+        "capital": "Luxemburgo",
+        "population": 686970,
+        "region": "Europa",
+        "languages": [
+            "Alemán",
+            "Francés",
+            "Luxemburgués"
+        ],
+        "currency": "Euro",
+        "flag": "🇱🇺",
+        "cca2": "lu"
+    },
+    "LBN": {
+        "name": "Líbano",
+        "officialName": "República Libanesa",
+        "capital": "Beirut",
+        "population": 5849421,
+        "region": "Asia",
+        "languages": [
+            "Árabe",
+            "Francés"
+        ],
+        "currency": "Libra libanesa",
+        "flag": "🇱🇧",
+        "cca2": "lb"
+    },
+    "MKD": {
+        "name": "Macedonia del Norte",
+        "officialName": "República de Macedonia del Norte",
+        "capital": "Skopje",
+        "population": 1820909,
+        "region": "Europa",
+        "languages": [
+            "Macedonio"
+        ],
+        "currency": "Denar macedonio",
+        "flag": "🇲🇰",
+        "cca2": "mk"
+    },
+    "MDG": {
+        "name": "Madagascar",
+        "officialName": "República de Madagascar",
+        "capital": "Antananarivo",
+        "population": 32740678,
+        "region": "África",
+        "languages": [
+            "Francés",
+            "Malgache"
+        ],
+        "currency": "Ariary malgache",
+        "flag": "🇲🇬",
+        "cca2": "mg"
+    },
+    "MYS": {
+        "name": "Malasia",
+        "officialName": "Malasia",
+        "capital": "Kuala Lumpur",
+        "population": 35977838,
+        "region": "Asia",
+        "languages": [
+            "Inglés",
+            "Malayo"
+        ],
+        "currency": "Ringgit malasio",
+        "flag": "🇲🇾",
+        "cca2": "my"
+    },
+    "MWI": {
+        "name": "Malawi",
+        "officialName": "República de Malawi",
+        "capital": "Lilongwe",
+        "population": 22216120,
+        "region": "África",
+        "languages": [
+            "Inglés",
+            "Chichewa"
+        ],
+        "currency": "Kwacha malauí",
+        "flag": "🇲🇼",
+        "cca2": "mw"
+    },
+    "MDV": {
+        "name": "Maldivas",
+        "officialName": "República de las Maldivas",
+        "capital": "Malé",
+        "population": 529676,
+        "region": "Asia",
+        "languages": [
+            "Maldivo"
+        ],
+        "currency": "Rupia maldiva",
+        "flag": "🇲🇻",
+        "cca2": "mv"
+    },
+    "MLI": {
+        "name": "Mali",
+        "officialName": "República de Malí",
+        "capital": "Bamako",
+        "population": 25198821,
+        "region": "África",
+        "languages": [
+            "Francés"
+        ],
+        "currency": "Franco CFA de África Occidental",
+        "flag": "🇲🇱",
+        "cca2": "ml"
+    },
+    "MLT": {
+        "name": "Malta",
+        "officialName": "República de Malta",
+        "capital": "Valletta",
+        "population": 579704,
+        "region": "Europa",
+        "languages": [
+            "Inglés",
+            "Maltés"
+        ],
+        "currency": "Euro",
+        "flag": "🇲🇹",
+        "cca2": "mt"
+    },
+    "MAR": {
+        "name": "Marruecos",
+        "officialName": "Reino de Marruecos",
+        "capital": "Rabat",
+        "population": 38430770,
+        "region": "África",
+        "languages": [
+            "Árabe",
+            "Bereber"
+        ],
+        "currency": "Dirham marroquí",
+        "flag": "🇲🇦",
+        "cca2": "ma"
+    },
+    "MUS": {
+        "name": "Mauricio",
+        "officialName": "República de Mauricio",
+        "capital": "Port Louis",
+        "population": 1243741,
+        "region": "África",
+        "languages": [
+            "Inglés",
+            "Francés",
+            "Criollo mauriciano"
+        ],
+        "currency": "Rupia mauriciana",
+        "flag": "🇲🇺",
+        "cca2": "mu"
+    },
+    "MRT": {
+        "name": "Mauritania",
+        "officialName": "República Islámica de Mauritania",
+        "capital": "Nouakchott",
+        "population": 5315065,
+        "region": "África",
+        "languages": [
+            "Árabe"
+        ],
+        "currency": "Uguiya mauritana",
+        "flag": "🇲🇷",
+        "cca2": "mr"
+    },
+    "FSM": {
+        "name": "Micronesia",
+        "officialName": "Estados Federados de Micronesia",
+        "capital": "Palikir",
+        "population": 113683,
+        "region": "Oceanía",
+        "languages": [
+            "Inglés"
+        ],
+        "currency": "Dólar estadounidense",
+        "flag": "🇫🇲",
+        "cca2": "fm"
+    },
+    "MDA": {
+        "name": "Moldavia",
+        "officialName": "República de Moldova",
+        "capital": "Chisináu",
+        "population": 2360527,
+        "region": "Europa",
+        "languages": [
+            "Rumano"
+        ],
+        "currency": "Leu moldavo",
+        "flag": "🇲🇩",
+        "cca2": "md"
+    },
+    "MNG": {
+        "name": "Mongolia",
+        "officialName": "Mongolia",
+        "capital": "Ulán Bator",
+        "population": 3568978,
+        "region": "Asia",
+        "languages": [
+            "Mongol"
+        ],
+        "currency": "Tugrik mongol",
+        "flag": "🇲🇳",
+        "cca2": "mn"
+    },
+    "MNE": {
+        "name": "Montenegro",
+        "officialName": "Montenegro",
+        "capital": "Podgorica",
+        "population": 623129,
+        "region": "Europa",
+        "languages": [
+            "Montenegrino"
+        ],
+        "currency": "Euro",
+        "flag": "🇲🇪",
+        "cca2": "me"
+    },
+    "MOZ": {
+        "name": "Mozambique",
+        "officialName": "República de Mozambique",
+        "capital": "Maputo",
+        "population": 35631653,
+        "region": "África",
+        "languages": [
+            "Portugués"
+        ],
+        "currency": "Metical mozambiqueño",
+        "flag": "🇲🇿",
+        "cca2": "mz"
+    },
+    "MMR": {
+        "name": "Myanmar",
+        "officialName": "República de la Unión de Myanmar",
+        "capital": "Naypyidaw",
+        "population": 54850648,
+        "region": "Asia",
+        "languages": [
+            "Birmano"
+        ],
+        "currency": "Kyat birmano",
+        "flag": "🇲🇲",
+        "cca2": "mm"
+    },
+    "MEX": {
+        "name": "México",
+        "officialName": "Estados Unidos Mexicanos",
+        "capital": "Ciudad de México",
+        "population": 131946900,
+        "region": "América",
+        "languages": [
+            "Español"
+        ],
+        "currency": "Peso mexicano",
+        "flag": "🇲🇽",
+        "cca2": "mx"
+    },
+    "MCO": {
+        "name": "Mónaco",
+        "officialName": "Principado de Mónaco",
+        "capital": "Mónaco",
+        "population": 38341,
+        "region": "Europa",
+        "languages": [
+            "Francés"
+        ],
+        "currency": "Euro",
+        "flag": "🇲🇨",
+        "cca2": "mc"
+    },
+    "NAM": {
+        "name": "Namibia",
+        "officialName": "República de Namibia",
+        "capital": "Windhoek",
+        "population": 3092816,
+        "region": "África",
+        "languages": [
+            "Afrikáans",
+            "Alemán",
+            "Inglés",
+            "Herero",
+            "Khoekhoe",
+            "Kwangali",
+            "Lozi",
+            "Ndonga",
+            "Tswana"
+        ],
+        "currency": "Dólar namibio",
+        "flag": "🇳🇦",
+        "cca2": "na"
+    },
+    "NRU": {
+        "name": "Nauru",
+        "officialName": "República de Nauru",
+        "capital": "Yaren",
+        "population": 12025,
+        "region": "Oceanía",
+        "languages": [
+            "Inglés",
+            "Nauruano"
+        ],
+        "currency": "Dólar australiano",
+        "flag": "🇳🇷",
+        "cca2": "nr"
+    },
+    "NPL": {
+        "name": "Nepal",
+        "officialName": "República Democrática Federal de Nepal",
+        "capital": "Kathmandu",
+        "population": 29618118,
+        "region": "Asia",
+        "languages": [
+            "Nepalí"
+        ],
+        "currency": "Rupia nepalí",
+        "flag": "🇳🇵",
+        "cca2": "np"
+    },
+    "NIC": {
+        "name": "Nicaragua",
+        "officialName": "República de Nicaragua",
+        "capital": "Managua",
+        "population": 7007502,
+        "region": "América",
+        "languages": [
+            "Español"
+        ],
+        "currency": "Córdoba nicaragüense",
+        "flag": "🇳🇮",
+        "cca2": "ni"
+    },
+    "NGA": {
+        "name": "Nigeria",
+        "officialName": "República Federal de Nigeria",
+        "capital": "Abuja",
+        "population": 237527782,
+        "region": "África",
+        "languages": [
+            "Inglés"
+        ],
+        "currency": "Naira nigeriana",
+        "flag": "🇳🇬",
+        "cca2": "ng"
+    },
+    "NOR": {
+        "name": "Noruega",
+        "officialName": "Reino de Noruega",
+        "capital": "Oslo",
+        "population": 5610870,
+        "region": "Europa",
+        "languages": [
+            "Noruego nynorsk",
+            "Noruego bokmål",
+            "Sami"
+        ],
+        "currency": "Corona noruega",
+        "flag": "🇳🇴",
+        "cca2": "no"
+    },
+    "NCL": {
+        "name": "Nueva Caledonia",
+        "officialName": "Nueva Caledonia",
+        "capital": "Numea",
+        "population": 295333,
+        "region": "Oceanía",
+        "languages": [
+            "Francés"
+        ],
+        "currency": "Franco CFP",
+        "flag": "🇳🇨",
+        "cca2": "nc"
+    },
+    "NZL": {
+        "name": "Nueva Zelanda",
+        "officialName": "Nueva Zelanda",
+        "capital": "Wellington",
+        "population": 5324700,
+        "region": "Oceanía",
+        "languages": [
+            "Inglés",
+            "Maorí",
+            "Lengua de señas neozelandesa"
+        ],
+        "currency": "Dólar neozelandés",
+        "flag": "🇳🇿",
+        "cca2": "nz"
+    },
+    "NER": {
+        "name": "Níger",
+        "officialName": "República de Níger",
+        "capital": "Niamey",
+        "population": 27917831,
+        "region": "África",
+        "languages": [
+            "Francés"
+        ],
+        "currency": "Franco CFA de África Occidental",
+        "flag": "🇳🇪",
+        "cca2": "ne"
+    },
+    "OMN": {
+        "name": "Omán",
+        "officialName": "Sultanato de Omán",
+        "capital": "Mascate",
+        "population": 5494691,
+        "region": "Asia",
+        "languages": [
+            "Árabe"
+        ],
+        "currency": "Rial omaní",
+        "flag": "🇴🇲",
+        "cca2": "om"
+    },
+    "PAK": {
+        "name": "Pakistán",
+        "officialName": "República Islámica de Pakistán",
+        "capital": "Islamabad",
+        "population": 255219554,
+        "region": "Asia",
+        "languages": [
+            "Inglés",
+            "Urdu"
+        ],
+        "currency": "Rupia pakistaní",
+        "flag": "🇵🇰",
+        "cca2": "pk"
+    },
+    "PLW": {
+        "name": "Palau",
+        "officialName": "República de Palau",
+        "capital": "Ngerulmud",
+        "population": 17663,
+        "region": "Oceanía",
+        "languages": [
+            "Inglés",
+            "Palauano"
+        ],
+        "currency": "Dólar estadounidense",
+        "flag": "🇵🇼",
+        "cca2": "pw"
+    },
+    "PSE": {
+        "name": "Palestina",
+        "officialName": "Estado de Palestina",
+        "capital": "Ramala",
+        "population": 5413596,
+        "region": "Asia",
+        "languages": [
+            "Árabe"
+        ],
+        "currency": "Nuevo shéquel israelí",
+        "flag": "🇵🇸",
+        "cca2": "ps"
+    },
+    "PAN": {
+        "name": "Panamá",
+        "officialName": "República de Panamá",
+        "capital": "Ciudad de Panamá",
+        "population": 4571189,
+        "region": "América",
+        "languages": [
+            "Español"
+        ],
+        "currency": "Balboa panameño",
+        "flag": "🇵🇦",
+        "cca2": "pa"
+    },
+    "PNG": {
+        "name": "Papúa Nueva Guinea",
+        "officialName": "Estado Independiente de Papúa Nueva Guinea",
+        "capital": "Port Moresby",
+        "population": 10762817,
+        "region": "Oceanía",
+        "languages": [
+            "Inglés",
+            "Hiri motu",
+            "Tok pisin"
+        ],
+        "currency": "Kina papú",
+        "flag": "🇵🇬",
+        "cca2": "pg"
+    },
+    "PRY": {
+        "name": "Paraguay",
+        "officialName": "República de Paraguay",
+        "capital": "Asunción",
+        "population": 7013078,
+        "region": "América",
+        "languages": [
+            "Guaraní",
+            "Español"
+        ],
+        "currency": "Guaraní paraguayo",
+        "flag": "🇵🇾",
+        "cca2": "py"
+    },
+    "NLD": {
+        "name": "Países Bajos",
+        "officialName": "Países Bajos",
+        "capital": "Ámsterdam",
+        "population": 18087633,
+        "region": "Europa",
+        "languages": [
+            "Neerlandés"
+        ],
+        "currency": "Euro",
+        "flag": "🇳🇱",
+        "cca2": "nl"
+    },
+    "PER": {
+        "name": "Perú",
+        "officialName": "República de Perú",
+        "capital": "Lima",
+        "population": 34576665,
+        "region": "América",
+        "languages": [
+            "Aimara",
+            "Quechua",
+            "Español"
+        ],
+        "currency": "Sol peruano",
+        "flag": "🇵🇪",
+        "cca2": "pe"
+    },
+    "POL": {
+        "name": "Polonia",
+        "officialName": "República de Polonia",
+        "capital": "Varsovia",
+        "population": 36435861,
+        "region": "Europa",
+        "languages": [
+            "Polaco"
+        ],
+        "currency": "Zloty polaco",
+        "flag": "🇵🇱",
+        "cca2": "pl"
+    },
+    "PRT": {
+        "name": "Portugal",
+        "officialName": "República Portuguesa",
+        "capital": "Lisboa",
+        "population": 10804871,
+        "region": "Europa",
+        "languages": [
+            "Portugués"
+        ],
+        "currency": "Euro",
+        "flag": "🇵🇹",
+        "cca2": "pt"
+    },
+    "PRI": {
+        "name": "Puerto Rico",
+        "officialName": "Estado Libre Asociado de Puerto Rico",
+        "capital": "San Juan",
+        "population": 3184835,
+        "region": "América",
+        "languages": [
+            "Español",
+            "Inglés"
+        ],
+        "currency": "Dólar estadounidense",
+        "flag": "🇵🇷",
+        "cca2": "pr"
+    },
+    "COD": {
+        "name": "R.D. del Congo",
+        "officialName": "República Democrática del Congo",
+        "capital": "Kinshasa",
+        "population": 112832473,
+        "region": "África",
+        "languages": [
+            "Francés",
+            "Kikongo",
+            "Lingala",
+            "Chiluba",
+            "Suajili"
+        ],
+        "currency": "Franco congoleño",
+        "flag": "🇨🇩",
+        "cca2": "cd"
+    },
+    "GBR": {
+        "name": "Reino Unido",
+        "officialName": "Reino Unido de Gran Bretaña e Irlanda del Norte",
+        "capital": "Londres",
+        "population": 69487000,
+        "region": "Europa",
+        "languages": [
+            "Inglés"
+        ],
+        "currency": "Libra esterlina",
+        "flag": "🇬🇧",
+        "cca2": "gb"
+    },
+    "CAF": {
+        "name": "República Centroafricana",
+        "officialName": "República Centroafricana",
+        "capital": "Bangui",
+        "population": 5513282,
+        "region": "África",
+        "languages": [
+            "Francés",
+            "Sango"
+        ],
+        "currency": "Franco CFA de África Central",
+        "flag": "🇨🇫",
+        "cca2": "cf"
+    },
+    "DOM": {
+        "name": "República Dominicana",
+        "officialName": "República Dominicana",
+        "capital": "Santo Domingo",
+        "population": 11520487,
+        "region": "América",
+        "languages": [
+            "Español"
+        ],
+        "currency": "Peso dominicano",
+        "flag": "🇩🇴",
+        "cca2": "do"
+    },
+    "RWA": {
+        "name": "Ruanda",
+        "officialName": "República de Rwanda",
+        "capital": "Kigali",
+        "population": 14569341,
+        "region": "África",
+        "languages": [
+            "Inglés",
+            "Francés",
+            "Kiñaruanda"
+        ],
+        "currency": "Franco ruandés",
+        "flag": "🇷🇼",
+        "cca2": "rw"
+    },
+    "ROU": {
+        "name": "Rumania",
+        "officialName": "Rumania",
+        "capital": "Bucarest",
+        "population": 19020271,
+        "region": "Europa",
+        "languages": [
+            "Rumano"
+        ],
+        "currency": "Leu rumano",
+        "flag": "🇷🇴",
+        "cca2": "ro"
+    },
+    "RUS": {
+        "name": "Rusia",
+        "officialName": "Federación de Rusia",
+        "capital": "Moscú",
+        "population": 143513328,
+        "region": "Europa",
+        "languages": [
+            "Ruso"
+        ],
+        "currency": "Rublo ruso",
+        "flag": "🇷🇺",
+        "cca2": "ru"
+    },
+    "ESH": {
+        "name": "Sahara Occidental",
+        "officialName": "Sahara Occidental",
+        "capital": "El Aaiún",
+        "population": 587259,
+        "region": "África",
+        "languages": [
+            "Árabe",
+            "Español",
+            "Bereber"
+        ],
+        "currency": "Dirham marroquí",
+        "flag": "🇪🇭",
+        "cca2": "eh"
+    },
+    "WSM": {
+        "name": "Samoa",
+        "officialName": "Estado Independiente de Samoa",
+        "capital": "Apia",
+        "population": 219306,
+        "region": "Oceanía",
+        "languages": [
+            "Inglés",
+            "Samoano"
+        ],
+        "currency": "Tala samoano",
+        "flag": "🇼🇸",
+        "cca2": "ws"
+    },
+    "KNA": {
+        "name": "San Cristóbal y Nieves",
+        "officialName": "Federación de San Cristóbal y Nevis",
+        "capital": "Basseterre",
+        "population": 46922,
+        "region": "América",
+        "languages": [
+            "Inglés"
+        ],
+        "currency": "Dólar del Caribe Oriental",
+        "flag": "🇰🇳",
+        "cca2": "kn"
+    },
+    "SMR": {
+        "name": "San Marino",
+        "officialName": "Serenísima República de San Marino",
+        "capital": "San Marino",
+        "population": 34109,
+        "region": "Europa",
+        "languages": [
+            "Italiano"
+        ],
+        "currency": "Euro",
+        "flag": "🇸🇲",
+        "cca2": "sm"
+    },
+    "VCT": {
+        "name": "San Vicente y Granadinas",
+        "officialName": "San Vicente y las Granadinas",
+        "capital": "Kingstown",
+        "population": 99924,
+        "region": "América",
+        "languages": [
+            "Inglés"
+        ],
+        "currency": "Dólar del Caribe Oriental",
+        "flag": "🇻🇨",
+        "cca2": "vc"
+    },
+    "LCA": {
+        "name": "Santa Lucía",
+        "officialName": "Santa Lucía",
+        "capital": "Castries",
+        "population": 180149,
+        "region": "América",
+        "languages": [
+            "Inglés"
+        ],
+        "currency": "Dólar del Caribe Oriental",
+        "flag": "🇱🇨",
+        "cca2": "lc"
+    },
+    "STP": {
+        "name": "Santo Tomé y Príncipe",
+        "officialName": "República Democrática de Santo Tomé y Príncipe",
+        "capital": "São Tomé",
+        "population": 240254,
+        "region": "África",
+        "languages": [
+            "Portugués"
+        ],
+        "currency": "Dobra santotomense",
+        "flag": "🇸🇹",
+        "cca2": "st"
+    },
+    "SEN": {
+        "name": "Senegal",
+        "officialName": "República de Senegal",
+        "capital": "Dakar",
+        "population": 18931966,
+        "region": "África",
+        "languages": [
+            "Francés"
+        ],
+        "currency": "Franco CFA de África Occidental",
+        "flag": "🇸🇳",
+        "cca2": "sn"
+    },
+    "SRB": {
+        "name": "Serbia",
+        "officialName": "República de Serbia",
+        "capital": "Belgrado",
+        "population": 6549143,
+        "region": "Europa",
+        "languages": [
+            "Serbio"
+        ],
+        "currency": "Dinar serbio",
+        "flag": "🇷🇸",
+        "cca2": "rs"
+    },
+    "SYC": {
+        "name": "Seychelles",
+        "officialName": "República de las Seychelles",
+        "capital": "Victoria",
+        "population": 122730,
+        "region": "África",
+        "languages": [
+            "Criollo seychelense",
+            "Inglés",
+            "Francés"
+        ],
+        "currency": "Rupia seychelense",
+        "flag": "🇸🇨",
+        "cca2": "sc"
+    },
+    "SLE": {
+        "name": "Sierra Leona",
+        "officialName": "República de Sierra Leona",
+        "capital": "Freetown",
+        "population": 8819794,
+        "region": "África",
+        "languages": [
+            "Inglés"
+        ],
+        "currency": "Leone de Sierra Leona",
+        "flag": "🇸🇱",
+        "cca2": "sl"
+    },
+    "SGP": {
+        "name": "Singapur",
+        "officialName": "República de Singapur",
+        "capital": "Singapur",
+        "population": 6111175,
+        "region": "Asia",
+        "languages": [
+            "Inglés",
+            "Malayo",
+            "Tamil",
+            "Chino mandarín"
+        ],
+        "currency": "Dólar de Singapur",
+        "flag": "🇸🇬",
+        "cca2": "sg"
+    },
+    "SYR": {
+        "name": "Siria",
+        "officialName": "República Árabe Siria",
+        "capital": "Damasco",
+        "population": 25620427,
+        "region": "Asia",
+        "languages": [
+            "Árabe"
+        ],
+        "currency": "Libra siria",
+        "flag": "🇸🇾",
+        "cca2": "sy"
+    },
+    "SOM": {
+        "name": "Somalia",
+        "officialName": "República Federal de Somalia",
+        "capital": "Mogadishu",
+        "population": 19654739,
+        "region": "África",
+        "languages": [
+            "Árabe",
+            "Somalí"
+        ],
+        "currency": "Chelín somalí",
+        "flag": "🇸🇴",
+        "cca2": "so"
+    },
+    "LKA": {
+        "name": "Sri Lanka",
+        "officialName": "República Democrática Socialista de Sri Lanka",
+        "capital": "Colombo",
+        "population": 21756000,
+        "region": "Asia",
+        "languages": [
+            "Cingalés",
+            "Tamil"
+        ],
+        "currency": "Rupia esrilanquesa",
+        "flag": "🇱🇰",
+        "cca2": "lk"
+    },
+    "ZAF": {
+        "name": "Sudáfrica",
+        "officialName": "República de Sudáfrica",
+        "capital": "Pretoria",
+        "population": 64747319,
+        "region": "África",
+        "languages": [
+            "Afrikáans",
+            "Inglés",
+            "Ndebele del sur",
+            "Sotho del norte",
+            "Sotho",
+            "Suazi",
+            "Tswana",
+            "Tsonga",
+            "Venda",
+            "Xhosa",
+            "Zulú"
+        ],
+        "currency": "Rand sudafricano",
+        "flag": "🇿🇦",
+        "cca2": "za"
+    },
+    "SDN": {
+        "name": "Sudán",
+        "officialName": "República de Sudán",
+        "capital": "Khartoum",
+        "population": 51662147,
+        "region": "África",
+        "languages": [
+            "Árabe",
+            "Inglés"
+        ],
+        "currency": "Libra sudanesa",
+        "flag": "🇸🇩",
+        "cca2": "sd"
+    },
+    "SSD": {
+        "name": "Sudán del Sur",
+        "officialName": "República de Sudán del Sur",
+        "capital": "Juba",
+        "population": 12188788,
+        "region": "África",
+        "languages": [
+            "Inglés"
+        ],
+        "currency": "Libra sursudanesa",
+        "flag": "🇸🇸",
+        "cca2": "ss"
+    },
+    "SWE": {
+        "name": "Suecia",
+        "officialName": "Reino de Suecia",
+        "capital": "Estocolmo",
+        "population": 10596620,
+        "region": "Europa",
+        "languages": [
+            "Sueco"
+        ],
+        "currency": "Corona sueca",
+        "flag": "🇸🇪",
+        "cca2": "se"
+    },
+    "CHE": {
+        "name": "Suiza",
+        "officialName": "Confederación Suiza",
+        "capital": "Berna",
+        "population": 9092436,
+        "region": "Europa",
+        "languages": [
+            "Francés",
+            "Suizo alemán",
+            "Italiano",
+            "Romanche"
+        ],
+        "currency": "Franco suizo",
+        "flag": "🇨🇭",
+        "cca2": "ch"
+    },
+    "SUR": {
+        "name": "Surinam",
+        "officialName": "República de Suriname",
+        "capital": "Paramaribo",
+        "population": 639850,
+        "region": "América",
+        "languages": [
+            "Neerlandés"
+        ],
+        "currency": "Dólar surinamés",
+        "flag": "🇸🇷",
+        "cca2": "sr"
+    },
+    "THA": {
+        "name": "Tailandia",
+        "officialName": "Reino de Tailandia",
+        "capital": "Bangkok",
+        "population": 71619863,
+        "region": "Asia",
+        "languages": [
+            "Tailandés"
+        ],
+        "currency": "Baht tailandés",
+        "flag": "🇹🇭",
+        "cca2": "th"
+    },
+    "TWN": {
+        "name": "Taiwán",
+        "officialName": "Taiwán",
+        "capital": "Taipéi",
+        "population": 23400000,
+        "region": "Asia",
+        "languages": [
+            "Chino mandarín"
+        ],
+        "currency": "Nuevo dólar taiwanés",
+        "flag": "🇹🇼",
+        "cca2": "tw"
+    },
+    "TZA": {
+        "name": "Tanzania",
+        "officialName": "República Unida de Tanzania",
+        "capital": "Dodoma",
+        "population": 70545865,
+        "region": "África",
+        "languages": [
+            "Inglés",
+            "Suajili"
+        ],
+        "currency": "Chelín tanzano",
+        "flag": "🇹🇿",
+        "cca2": "tz"
+    },
+    "TJK": {
+        "name": "Tayikistán",
+        "officialName": "República de Tayikistán",
+        "capital": "Dushanbe",
+        "population": 10786734,
+        "region": "Asia",
+        "languages": [
+            "Ruso",
+            "Tayiko"
+        ],
+        "currency": "Somoni tayiko",
+        "flag": "🇹🇯",
+        "cca2": "tj"
+    },
+    "TLS": {
+        "name": "Timor Oriental",
+        "officialName": "República Democrática de Timor-Leste",
+        "capital": "Dili",
+        "population": 1418517,
+        "region": "Asia",
+        "languages": [
+            "Portugués",
+            "Tetum"
+        ],
+        "currency": "Dólar estadounidense",
+        "flag": "🇹🇱",
+        "cca2": "tl"
+    },
+    "TGO": {
+        "name": "Togo",
+        "officialName": "República de Togo",
+        "capital": "Lomé",
+        "population": 8591626,
+        "region": "África",
+        "languages": [
+            "Francés"
+        ],
+        "currency": "Franco CFA de África Occidental",
+        "flag": "🇹🇬",
+        "cca2": "tg"
+    },
+    "TON": {
+        "name": "Tonga",
+        "officialName": "Reino de Tonga",
+        "capital": "Nuku'alofa",
+        "population": 103742,
+        "region": "Oceanía",
+        "languages": [
+            "Inglés",
+            "Tongano"
+        ],
+        "currency": "Paʻanga tongano",
+        "flag": "🇹🇴",
+        "cca2": "to"
+    },
+    "TTO": {
+        "name": "Trinidad y Tobago",
+        "officialName": "República de Trinidad y Tobago",
+        "capital": "Port of Spain",
+        "population": 1367764,
+        "region": "América",
+        "languages": [
+            "Inglés"
+        ],
+        "currency": "Dólar de Trinidad y Tobago",
+        "flag": "🇹🇹",
+        "cca2": "tt"
+    },
+    "TKM": {
+        "name": "Turkmenistán",
+        "officialName": "Turkmenistán",
+        "capital": "Ashgabat",
+        "population": 7618847,
+        "region": "Asia",
+        "languages": [
+            "Ruso",
+            "Turcomano"
+        ],
+        "currency": "Manat turcomano",
+        "flag": "🇹🇲",
+        "cca2": "tm"
+    },
+    "TUR": {
+        "name": "Turquía",
+        "officialName": "República de Turquía",
+        "capital": "Ankara",
+        "population": 85878556,
+        "region": "Asia",
+        "languages": [
+            "Turco"
+        ],
+        "currency": "Lira turca",
+        "flag": "🇹🇷",
+        "cca2": "tr"
+    },
+    "TUV": {
+        "name": "Tuvalu",
+        "officialName": "Tuvalu",
+        "capital": "Funafuti",
+        "population": 9492,
+        "region": "Oceanía",
+        "languages": [
+            "Inglés",
+            "Tuvaluano"
+        ],
+        "currency": "Dólar australiano",
+        "flag": "🇹🇻",
+        "cca2": "tv"
+    },
+    "TUN": {
+        "name": "Túnez",
+        "officialName": "República de Túnez",
+        "capital": "Tunis",
+        "population": 12348573,
+        "region": "África",
+        "languages": [
+            "Árabe"
+        ],
+        "currency": "Dinar tunecino",
+        "flag": "🇹🇳",
+        "cca2": "tn"
+    },
+    "UKR": {
+        "name": "Ucrania",
+        "officialName": "Ucrania",
+        "capital": "Kiev",
+        "population": 38980376,
+        "region": "Europa",
+        "languages": [
+            "Ucraniano"
+        ],
+        "currency": "Grivna ucraniana",
+        "flag": "🇺🇦",
+        "cca2": "ua"
+    },
+    "UGA": {
+        "name": "Uganda",
+        "officialName": "República de Uganda",
+        "capital": "Kampala",
+        "population": 51384894,
+        "region": "África",
+        "languages": [
+            "Inglés",
+            "Suajili"
+        ],
+        "currency": "Chelín ugandés",
+        "flag": "🇺🇬",
+        "cca2": "ug"
+    },
+    "URY": {
+        "name": "Uruguay",
+        "officialName": "República Oriental del Uruguay",
+        "capital": "Montevideo",
+        "population": 3384688,
+        "region": "América",
+        "languages": [
+            "Español"
+        ],
+        "currency": "Peso uruguayo",
+        "flag": "🇺🇾",
+        "cca2": "uy"
+    },
+    "UZB": {
+        "name": "Uzbekistán",
+        "officialName": "República de Uzbekistán",
+        "capital": "Tashkent",
+        "population": 37053428,
+        "region": "Asia",
+        "languages": [
+            "Ruso",
+            "Uzbeko"
+        ],
+        "currency": "Som uzbeko",
+        "flag": "🇺🇿",
+        "cca2": "uz"
+    },
+    "VUT": {
+        "name": "Vanuatu",
+        "officialName": "República de Vanuatu",
+        "capital": "Port Vila",
+        "population": 335169,
+        "region": "Oceanía",
+        "languages": [
+            "Bislama",
+            "Inglés",
+            "Francés"
+        ],
+        "currency": "Vatu vanuatuense",
+        "flag": "🇻🇺",
+        "cca2": "vu"
+    },
+    "VEN": {
+        "name": "Venezuela",
+        "officialName": "República Bolivariana de Venezuela",
+        "capital": "Caracas",
+        "population": 28516896,
+        "region": "América",
+        "languages": [
+            "Español"
+        ],
+        "currency": "Bolívar soberano",
+        "flag": "🇻🇪",
+        "cca2": "ve"
+    },
+    "VNM": {
+        "name": "Vietnam",
+        "officialName": "República Socialista de Vietnam",
+        "capital": "Hanoi",
+        "population": 101598527,
+        "region": "Asia",
+        "languages": [
+            "Vietnamita"
+        ],
+        "currency": "Dong vietnamita",
+        "flag": "🇻🇳",
+        "cca2": "vn"
+    },
+    "YEM": {
+        "name": "Yemen",
+        "officialName": "República de Yemen",
+        "capital": "Sana'a",
+        "population": 41773878,
+        "region": "Asia",
+        "languages": [
+            "Árabe"
+        ],
+        "currency": "Rial yemení",
+        "flag": "🇾🇪",
+        "cca2": "ye"
+    },
+    "ZMB": {
+        "name": "Zambia",
+        "officialName": "República de Zambia",
+        "capital": "Lusaka",
+        "population": 21913874,
+        "region": "África",
+        "languages": [
+            "Inglés"
+        ],
+        "currency": "Kwacha zambiano",
+        "flag": "🇿🇲",
+        "cca2": "zm"
+    },
+    "ZWE": {
+        "name": "Zimbabue",
+        "officialName": "República de Zimbabue",
+        "capital": "Harare",
+        "population": 16950795,
+        "region": "África",
+        "languages": [
+            "Chibarwe",
+            "Inglés",
+            "Kalanga",
+            "Khoisan",
+            "Ndau",
+            "Ndebele del norte",
+            "Chichewa",
+            "Shona",
+            "Sotho",
+            "Tonga (Zambia)",
+            "Tswana",
+            "Tsonga",
+            "Venda",
+            "Xhosa",
+            "Lengua de señas zimbabuense"
+        ],
+        "currency": "Dólar estadounidense (sistema multimoneda)",
+        "flag": "🇿🇼",
+        "cca2": "zw"
+    }
+}

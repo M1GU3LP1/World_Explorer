@@ -1,0 +1,136 @@
+
+.skip-link {
+  position: absolute;
+  top: -60px;
+  left: 10px;
+  z-index: 2000;
+
+  padding: 10px 16px;
+  border-radius: 8px;
+
+  background: #1d4ed8; /* contraste con blanco: 6.7:1 */
+  color: #fff;
+
+  transition: top 0.15s ease;
+}
+
+.skip-link:focus {
+  top: 10px;
+}
+
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+select:focus-visible {
+  outline: 3px solid #38bdf8;
+  outline-offset: 2px;
+}
+
+#globe-container {
+  height: 55vh;
+  min-height: 320px;
+  background: #000 radial-gradient(circle at center, #172554 0%, #020617 70%, #000 100%);
+}
+
+#globeViz {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.lista-scroll {
+  max-height: 220px;
+  overflow-y: auto;
+}
+
+.resultado-item {
+  border-radius: 0;
+  color: var(--bs-body-color);
+}
+
+.resultado-item:hover,
+.resultado-item:focus-visible {
+  background: var(--bs-tertiary-bg);
+  color: var(--bs-body-color);
+}
+
+.bandera-img {
+  flex-shrink: 0;
+  border-radius: 3px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.4);
+}
+
+.resultado-item .bandera-respaldo {
+  flex-shrink: 0;
+  font-size: 16px;
+}
+
+#flag .bandera-img {
+  display: block;
+  border-radius: 6px;
+  border: 1px solid var(--bs-border-color);
+}
+
+#flag .bandera-respaldo {
+  display: block;
+  font-size: 40px;
+}
+
+.btn-favoritos {
+  background: rgba(250, 204, 21, 0.15);
+  border: 1px solid rgba(250, 204, 21, 0.5);
+  border-radius: 999px;
+  color: #fde68a;
+}
+
+.btn-favoritos:hover {
+  background: rgba(250, 204, 21, 0.3);
+  color: #fde68a;
+}
+
+[data-bs-theme="light"] .btn-favoritos {
+  background: #fef9c3;
+  border-color: #ca8a04;
+  color: #713f12;
+}
+
+[data-bs-theme="light"] .btn-favoritos:hover {
+  background: #fef08a;
+  color: #713f12;
+}
+
+@media (min-width: 992px) {
+  body {
+    height: 100vh;
+    overflow: hidden;
+  }
+
+  main {
+    display: flex;
+    flex-direction: column;
+    min-height: 0;
+  }
+
+  main > .row {
+    flex: 1;
+    min-height: 0;
+  }
+
+  #globe-container {
+    height: 100%;
+  }
+
+  #panel-lateral > .card,
+  #info-panel > .card {
+    max-height: 100%;
+    overflow-y: auto;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .skip-link,
+  .collapsing {
+    transition: none;
+  }
+}
