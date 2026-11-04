@@ -8,8 +8,8 @@ Explorador de países con un globo 3D interactivo. Permite buscar países por no
 
 | Pieza | URL |
 |---|---|
-| Aplicación publicada (frontend) | _pendiente: pega aquí la URL de Netlify/Vercel_ |
-| API publicada (backend) | _pendiente: pega aquí la URL de Render_ |
+| Aplicación publicada (frontend) | https://6aeb3d63cb9daa8032333fea--flourishing-flan-f83690.netlify.app/|
+| API publicada (backend) | https://world-explorer-gmqw.onrender.com/ |
 
 ## Cómo ejecutarlo en local
 
