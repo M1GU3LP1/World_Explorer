@@ -39,6 +39,7 @@ function crearComprobadorDeOrigen(lista) {
 }
 
 const origenPermitido = crearComprobadorDeOrigen(ORIGENES_PERMITIDOS);
+
 const CARPETA_PUBLICA = fileURLToPath(new URL("../public/", import.meta.url));
 
 const app = express();
@@ -51,7 +52,7 @@ app.use(
     cors({
         origin(origen, devolver) {
             // Sin cabecera Origin = mismo origen o herramientas como curl.
-            devolver(null, !origen || ORIGENES_PERMITIDOS.includes(origen));
+            devolver(null, !origen || origenPermitido(origen));
         },
         methods: ["GET", "POST"]
     })

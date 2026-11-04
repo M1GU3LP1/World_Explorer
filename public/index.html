@@ -39,10 +39,12 @@
     <div class="container-fluid pt-2">
         <div id="error-banner" class="alert alert-danger mb-2" role="alert" hidden></div>
         <div id="mensaje-estado" class="alert alert-success mb-2" role="status" hidden></div>
-        <div id="indicador-carga" class="alert alert-info d-flex align-items-center gap-2 mb-2" role="status" hidden>
-            <span class="spinner-border spinner-border-sm" aria-hidden="true"></span>
-            <span id="texto-carga">Cargando…</span>
-        </div>
+        <div id="indicador-carga" class="alert alert-info mb-2" role="status" hidden>
+            <div class="d-flex align-items-center gap-2">
+                <span class="spinner-border spinner-border-sm" aria-hidden="true"></span>
+                <span id="texto-carga">Cargando…</span>
+    </div>
+</div>
     </div>
 
     <main class="container-fluid flex-grow-1 pb-3">
