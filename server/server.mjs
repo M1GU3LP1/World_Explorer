@@ -16,9 +16,29 @@ const ORIGENES_PERMITIDOS = (
     "http://localhost:3000,http://localhost:5500,http://127.0.0.1:5500"
 )
     .split(",")
-    .map((origen) => origen.trim())
+    .map((origen) => origen.trim().replace(/\/+$/, ""))
     .filter(Boolean);
 
+// Permite entradas exactas y entradas con "*" (un solo tramo de subdominio).
+function crearComprobadorDeOrigen(lista) {
+    const exactos = new Set();
+    const patrones = [];
+
+    for (const origen of lista) {
+        if (origen.includes("*")) {
+            const escapado = origen
+                .replace(/[.+?^${}()|[\]\\]/g, "\\$&")
+                .replace(/\*/g, "[a-z0-9-]+");
+            patrones.push(new RegExp(`^${escapado}$`));
+        } else {
+            exactos.add(origen);
+        }
+    }
+
+    return (origen) => exactos.has(origen) || patrones.some((p) => p.test(origen));
+}
+
+const origenPermitido = crearComprobadorDeOrigen(ORIGENES_PERMITIDOS);
 const CARPETA_PUBLICA = fileURLToPath(new URL("../public/", import.meta.url));
 
 const app = express();
